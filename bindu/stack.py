@@ -1,0 +1,16 @@
+stack=["gvp","tarun","varun"]
+stack.append("ramu")
+stack.append("shashi")
+print(stack)
+print(stack.pop())
+print(stack)
+print(stack.pop())
+print(stack)
+queue=["gvp","tarun","varun"]
+queue.append("ramu")
+queue.append("shashi")
+print(queue)
+print(queue.pop(0))
+print(queue)
+print(queue.pop(0))
+print(queue)

@@ -1,0 +1,12 @@
+queue=[]
+queue.append('bindu')
+queue.append('chandu')
+queue.append('viji')
+print("initial queue")
+print(queue)
+print("\ elements dequed from queue")
+print(queue.pop(0))
+print(queue.pop(0))
+print(queue.pop(0))
+print("\n queueafter removing elements")
+print(queue)

@@ -1,0 +1,16 @@
+stack=["gvp","cta"]
+stack.append("abc")
+queue=["gvp","cta"]
+queue.append("abc")
+list=[1,2,2,3,4,4,"hello"]
+tuple=(1,2,3,4)
+dict={"hello"}
+s=set(list)
+print(stack.pop())
+print(stack)
+print(queue.pop())
+print(queue)
+print(list)
+print(tuple)
+print(dict)
+print(s)
